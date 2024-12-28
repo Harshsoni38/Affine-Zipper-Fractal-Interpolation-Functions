@@ -1,1 +1,3 @@
 # Affine-Zipper-Fractal-Interpolation-Functions
+
+This project introduces a unique method for interpolating complex datasets using Affine Zipper Fractal Interpolation Functions (FIFs). By combining a "zipper" strategy with a binary signature and scaling functions, it offers a powerful way to model and approximate intricate shapes and patterns. The approach uses Iterated Function Systems (IFS) to solve real-world problems in fields like image compression, signal processing, and physics. Additionally, the project demonstrates how to approximate challenging functions such as the Weierstrass function and explores ways to improve the method for future applications in engineering and computational mechanics.
